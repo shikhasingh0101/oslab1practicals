@@ -30,6 +30,8 @@ Use the space bar to move forward one page and q to quit.
 11. `grep`: Search for a specified pattern in one or more files.
 It's a powerful tool for finding specific content in text files.
  ![image](https://github.com/shikhasingh0101/oslab1practicals/assets/142776457/15632ee3-8c98-45bd-b147-f0144fc0cf42)
+
 12.`sed`: Utilize a stream editor for filtering and transforming text.
 It can be used for complex text manipulation tasks.
+sed '$a\This line is appended after the last line' 
 
